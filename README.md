@@ -1,2 +1,4 @@
 # MLFromScratch
-Machine learning algorithms and their visualizations
+Machine learning algorithms implemented from scratch (i.e. using only numpy as third-party library) and their visualizations
+
+### Decision Tree
