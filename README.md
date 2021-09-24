@@ -3,3 +3,5 @@ Machine learning algorithms implemented from scratch (i.e. using only numpy as t
 
 ### Decision Tree
 ![Decision Tree](decision_tree.png)
+
+### Naive Bayes
